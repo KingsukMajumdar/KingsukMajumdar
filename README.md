@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingsukMajumdar
 - 👀 I’m interested in Electrical Engineering, Python, MATLAB, LTspice
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Github
+- 💞️ I’m looking to collaborate on Electrical Engineering, Python, MATLAB, LTspice
 - 📫 How to reach me ...
 
 <!---

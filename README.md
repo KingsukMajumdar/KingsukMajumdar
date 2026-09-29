@@ -96,7 +96,7 @@
 ## 📌 Highlights
 
 - 🏅 **4 Patents** including an international design registration
-- 📄 **7 SCI/Scopus Journals** + **10 International Conference Papers**
+- 📄 **7 SCI/Scopus Journals** + **11 International Conference Papers**
 - 🧠 Proposed two novel meta-heuristic algorithms: **OSHO** and **CSHO**
 - 🤖 Active research across **Smart Grid · ML · Power Systems · IoT · Power Electronics**
 - 🎓 Peer Reviewer — *Scientific Reports*, Springer Nature

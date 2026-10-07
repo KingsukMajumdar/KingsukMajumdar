@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-kannan.vercel.app/?username=KingsukMajumdar&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-theta-sable.vercel.app/?username=KingsukMajumdar&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -109,7 +109,10 @@
 ## 📺 YouTube
 
 > **[Learn With Kingsuk](https://www.youtube.com/@LearnWithKingsuk)**
+
 > Tutorials covering Power Systems, Python, Electrical Engineering, and more.
+
+---
 
 `#LearnWithKingsuk` &nbsp; `#ElectricalEngineering` &nbsp; `#Python` &nbsp; `#PowerSystems`
 

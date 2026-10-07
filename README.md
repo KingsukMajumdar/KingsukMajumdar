@@ -130,3 +130,15 @@
 KingsukMajumdar/KingsukMajumdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+<div align="center">
+  <a href="https://github.com/KingsukMajumdar">
+    <img src="https://img.shields.io/github/followers/KingsukMajumdar?style=social" alt="GitHub followers"/>
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@LearnWithKingsuk">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fshieldcn.dev%2Fyoutube%2Fsubscribers%2FUCo2Rho6ypq7IkxaKwByWQRA%2Fshields.json&style=social&logo=youtube&logoColor=red&label=YouTube" alt="YouTube Channel Subscribers"/>
+  </a>
+</div>

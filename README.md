@@ -86,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/KingsukMajumdar/github-profile-trophy">
     <img src="https://github-profile-trophy-theta-sable.vercel.app/?username=KingsukMajumdar&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>

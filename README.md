@@ -12,9 +12,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KingsukMajumdar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   &nbsp;
-  <a href="https://home.kingsukee.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Personal%20Website-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Personal Website"/>
-  </a>
+<a href="https://home.kingsukee.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Personal%20Website-2E7D32?style=flat&logo=googlechrome&logoColor=white" alt="Personal Website"/>
+</a>
   &nbsp;
   <a href="https://orcid.org/0000-0001-7224-4862">
     <img src="https://img.shields.io/badge/ORCID-0000--0001--7224--4862-a6ce39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
